@@ -1,0 +1,1 @@
+pyinstaller --hidden-import beautifulsoup4 --hidden-import requests --onefile subd.py
